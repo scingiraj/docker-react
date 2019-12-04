@@ -29,10 +29,4 @@
     ]
   }
 }
-public void main()
 
-{
-  
-  echo "test"
-  
-}
